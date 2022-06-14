@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Nontawat Thanundonsuk, a Computer Engineering student at Sirindhorn International Institute of Technology
-- 👀 I’m interested in Cyber Security, especially in Penetration Testing and Vulnerability Assessment
+- 👋 Hi, I’m Nontawat Thanundonsuk, a Computer Engineering student at Sirindhorn International Institute of Technology.
+- 👀 I’m interested in Cyber Security, especially in Penetration Testing and Vulnerability Assessment.
 - 📫 You can reach me via email --> nontawatthan27@gmail.com
 
 <!---
